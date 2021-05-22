@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-"Third line in a file" 
-"Fourth line in a file"
-"initial message" 
-The other message
->>>>>>> fa883e8359b34dc55e556248ce6be2256e6ff423
+Cleaned file
