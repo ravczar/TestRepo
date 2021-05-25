@@ -1,2 +1,5 @@
 # Plik roboczy rozdziału piątego
 untrackedfile.txt
+
+# Add folder to be untracked
+/src
